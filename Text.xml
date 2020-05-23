@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--International Language Support courtesy Flactine-->
+		<!--Agendas-->
+		<Row Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="en_US">
+			<Text>Flirtatious</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="en_US">
+			<Text>Enjoys courting members of the opposite sex.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="en_US">
+			<Text>Curmudgeon</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="en_US">
+			<Text>Has no time for dalliances with members of the opposite sex.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>I admire you. There are many of us who do, of course, but I’m your biggest and most important fan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="en_US">
+			<Text>You say you're just negotiating in your people's best interest, but I think you're just jealous of my relationships.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="en_US">
+			<Text>A great ruler cannot be distracted by the machinations of the opposite sex, wouldn’t you agree?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="en_US">
+			<Text>Don't you have better things to do than to natter at me? It's distracting and counterproductive.</Text>
+		</Row>
+
+		<!--Leader-Specific Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>I’m drawn to your mesmerizing presence, and I hope you feel the same way about me. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>I tell my subjects that I want to pursue better diplomatic ties with your civilization, but I will confess that my heart simply yearns to see you again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>Maybe later we could engage in some personal diplomacy? You and I alone, without all these trappings of state. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>Come, sit with me and let us glide down the Nile in comfort on my royal barge, and I shall show you the best parts of ... Egypt.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>I think I love you almost as much as I love myself. You should be impressed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>You move me to unworthy thoughts, and I risk perdition for your merest favor. Surely you will pity me, and give me your hand to kiss?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>You make my heart beat like waves on the shore—strongly and endlessly.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>One must balance war with pleasure. And I take such great pleasure from being in your company.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>It’s strange how much we can be fascinated by a person, not just for their looks, but for their mind, too. How do you do it? What is your secret? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>Do not tremble too much at the sight of my god-like person! You may touch me, and you will see that I am also a mortal man. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>What must I do to impress you? Say the word, and it will be done at once.  </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="en_US">
+			<Text>I have no patience for petty flirtations and witty quips. I prefer straightforward company—such as yours.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="en_US">
+			<Text>I suppose one day I will have to look into the matter of succession, but I hope that day is far off. </Text>
+		</Row>
+
+		<!--Sailor's Leader-Specific Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TRAJAN_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>If all roads lead to Rome, it's only a matter of time before you behold Trajan's Tower.</Text>
+		</Row>
+		<!--To Add
+	CIVITAS Leaders
+	Amanitore
+	Barbarossa
+	Genghis
+	Gorgo
+	Harald
+	Hojo
+	Jadwiga
+	Jayavarman
+	Curtin
+	Montezuma
+	Pericles
+	Pedro
+	Poundmaker
+	Qin Shi
+	Robert
+	Saladin
+	Seondoek
+	Shaka
+	Tamar
+	Roosevelt
+	Tomyris
+	Wilhelmina
+	-->
+
+		<!--Modifiers-->
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="en_US">
+			<Text>You are attractive and engaging</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="en_US">
+			<Text>You are of no interest to them</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="en_US">
+			<Text>They prefer spending time with leaders of their own gender</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="en_US">
+			<Text>They do not like the distraction you pose</Text>
+		</Row>
+
+		<!--Denounce-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS" Language="en_US">
+			<Text>(You are the same sex.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON" Language="en_US">
+			<Text>(You are the opposite sex.)</Text>
+		</Row>
+
+		<!--International Language Support-->
+		<!--Arrange by: Flactine-->
+		<!--pt_BR-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="pt_BR">
+			<Text>Sisudo</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="pt_BR">
+			<Text>Paquerador</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="pt_BR">
+			<Text>Não tem tempo para flertes com membros do sexo oposto.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="pt_BR">
+			<Text>Amigável com membros do sexo oposto.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="pt_BR">
+			<Text>Um grande soberano não pode se deixar levar pelas maquinações do sexo oposto, não concorda?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="pt_BR">
+			<Text>Eu não tenho paciência para namoricos e gracinhas. Eu prefiro uma companhia de verdade. Como a sua.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="pt_BR">
+			<Text>Acho que um dia precisarei pensar na questão da sucessão, mas espero que esse dia esteja longe. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="pt_BR">
+			<Text>Você não tem mais o que fazer do que ficar jogando conversa fora? Isso é distrativo e contraprodutivo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Eu admiro você. Muitos de nós admiramos, é claro, mas de todos os admiradores, eu sou mais importante.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>A sua fascinante presença me encanta e espero que você sinta o mesmo a meu respeito. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Eu digo aos meus súditos que quero ter relações diplomáticas melhores com a sua civilização, mas confesso que tudo que meu coração deseja é te ver outra vez.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Talvez mais tarde possamos nos envolver em uma diplomacia pessoal. Só você e eu, sem todas essas questões de Estado. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Venha, sente-se comigo e vamos descer o Nilo no conforto do meu barco real. Eu lhe mostrarei as melhores parte do... Egito.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Acho que eu te amo tanto quanto amo a mim mesmo. É impressionante.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Você faz eu me sentir indigno e correr risco de perdição pelo seu mais simples favor. Você teria piedade de mim e deixaria eu beijar a sua mão?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Você faz meu coração bater como as ondas do mar: forte e sem fim.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>É preciso equilibrar guerra e prazer. E é um enorme prazer estar em sua companhia.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>É estranho o quanto nos fascinamos pelas pessoas, não apenas pela aparência, mas pela cabeça delas também. Como você faz isso? Qual é o seu segredo? </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Não trema tanto diante da minha presença divina! Você pode me tocar. Você verá que eu também sou um homem mortal. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>O que devo fazer para impressionar você? É só dizer que eu farei imediatamente.  </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="pt_BR">
+			<Text>Você diz estar negociando pelo bem do seu próprio povo, mas acho que só está com inveja dos meus relacionamentos.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="pt_BR">
+			<Text>Tem preferência por interação com líderes de seu próprio gênero</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="pt_BR">
+			<Text>Eles não gostam da distração que você cria</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="pt_BR">
+			<Text>Você é atraente e cativante</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="pt_BR">
+			<Text>Você não é de interesse deles</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="pt_BR">
+			<Text>(Você é do sexo oposto.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="pt_BR">
+			<Text>(Você é do mesmo sexo.)</Text>
+		</Replace>
+
+		<!--fr_FR-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="fr_FR">
+			<Text>Grincheux</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="fr_FR">
+			<Text>Charmeur</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="fr_FR">
+			<Text>N'a pas de temps à perdre à séduire les personnes du sexe opposé.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="fr_FR">
+			<Text>Fait preuve de sympathie envers les personnes du sexe opposé.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="fr_FR">
+			<Text>Un bon dirigeant ne devrait pas se laisser distraire par les machinations du sexe opposé, vous ne croyez pas ?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="fr_FR">
+			<Text>Je n'ai pas le temps de tourner autour du pot ou de prouver mon sens de la répartie. Je préfère passer du temps en bonne compagnie. Avec vous, par exemple.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="fr_FR">
+			<Text>J'imagine que je devrai un jour me pencher sur ces histoires de succession, mais j'espère ne pas avoir à le faire trop prochainement.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="fr_FR">
+			<Text>Vous n'avez pas mieux à faire qu'essayer de papoter avec moi ? C'est gênant et contre-productif.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Je vous admire. Il y en a d'autres qui pensent la même chose à votre propos, mais personne ne vous apprécie autant que moi.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Votre présence est ensorcelante, et j'espère que vous ressentez la même chose à mon encontre.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Je dis à mes sujets que je souhaite consolider les liens diplomatiques de nos nations, mais je dois avouer que mon cœur souhaite seulement passer le plus de temps possible avec vous.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Peut-être que nous pourrions ensuite discuter de politiques plus personnelles ? Juste vous et moi, loin des histoires de gouvernement.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Venez avec moi sur ma barque royale, nous descendrons le Nil et je vous montrerai les choses les plus passionnantes… de l'Égypte.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Je crois bien que je vous aime autant que je m'aime. Et ce n'est pas rien de le dire.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Quand je vous vois, mon esprit s'emplit de pensées indignes, et le moindre de vos gestes me trouble. M'accorderez-vous le droit de baiser votre main ?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Mon cœur bat pour vous comme les vagues contre les rochers : sans répit et puissamment.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Il faut savoir alterner le combat et les plaisirs. Et j'ai beaucoup de plaisir à me trouver en votre compagnie.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>C'est étrange comme on peut être fasciné par une personne, pas uniquement par son physique, mais aussi par son esprit. Comment faites-vous pour exercer cette attirance ? Quel est votre secret ?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Ne tremblez pas devant mon aspect divin ! Vous pouvez me toucher, et vous verrez alors que je suis mortel, tout comme vous.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Que puis-je faire pour vous impressionner ? Dites-le-moi, et je le ferai.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="fr_FR">
+			<Text>Vous dites que vous négociez pour le bien de votre peuple, mais je pense que vous jalousez mes relations bien placées.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="fr_FR">
+			<Text>Préfère passer du temps avec des personnes du même sexe.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="fr_FR">
+			<Text>N'apprécie pas que vous représentiez une source de distraction.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="fr_FR">
+			<Text>Votre charme l'attire.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="fr_FR">
+			<Text>Vous ne l'intéressez pas.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="fr_FR">
+			<Text>(Vous êtes du sexe opposé.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="fr_FR">
+			<Text>(Vous êtes du même sexe.)</Text>
+		</Replace>
+
+		<!--de_DE-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="de_DE">
+			<Text>Brummbär</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="de_DE">
+			<Text>Kokett</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="de_DE">
+			<Text>Hat keine Zeit für romantische Tändeleien.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="de_DE">
+			<Text>Flirtet gerne mit dem anderen Geschlecht.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="de_DE">
+			<Text>Ein großer Anführer darf sich nicht von den Intrigen des anderen Geschlechts ablenken lassen, findet Ihr nicht auch?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="de_DE">
+			<Text>Ich habe keine Geduld für belangloses Flirten und Besserwisserei. Ich bevorzuge geradlinige Menschen - so wie Euch.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="de_DE">
+			<Text>Eines Tages muss ich mich wohl um einen Erben kümmern, aber ich hoffe, dass dieser Tag noch fern ist.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="de_DE">
+			<Text>Habt Ihr nichts Besseres zu tun, als mit mir zu plaudern? Das lenkt ab und ist kontraproduktiv.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Ich bewundere Euch. Das tun natürlich viele von uns, aber ich bin Euer größter und wichtigster Fan.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Ich fühle mich von Eurer faszinierenden Präsenz angezogen und hoffe, dass Ihr dasselbe für mich empfindet.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Ich erzähle meinem Volk, dass ich die diplomatischen Beziehungen zu Euch vertiefen will, aber ich muss gestehen, dass sich mein Herz einfach danach sehnt, Euch wiederzusehen.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Vielleicht können wir später unsere eigene diplomatische Beziehung vertiefen? Alleine, ohne all diesen politischen Trubel.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Kommt, setzt Euch zu mir und lasst uns auf meinem königlichen Schiff den Nil hinuntergleiten. Ich zeige Euch die schönsten Orte ... von Ägypten.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Ich glaube, ich liebe Euch fast so sehr, wie ich mich selbst liebe. Ihr könnt beeindruckt sein.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Ihr bewegt mich zu unwürdigen Gedanken, und ich riskiere meinen Untergang für den geringsten Gefallen für Euch. Ihr bedauert mich sicher sehr und wollt mir Eure Hand zum Kuss reichen?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Wegen Euch schlägt mein Herz wie eine Küstenbrandung - stark und unaufhörlich.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Der Krieg und das Vergnügen müssen sich im Gleichgewicht befinden. Und ich vergnüge mich sehr in Eurer Gesellschaft.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Ist es nicht seltsam, wie sehr man von einer Person fasziniert sein kann? Nicht nur wegen ihrem Aussehen, auch wegen ihrer Art zu denken. Wie macht Ihr das? Was ist Euer Geheimnis?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Lasst Euch von meiner gottgleichen Person nicht zu sehr einschüchtern! Berührt mich ruhig, dann seht Ihr, dass auch ich sterblich bin.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Was muss ich tun, um Euch zu beeindrucken? Sagt es mir, und es wird geschehen.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="de_DE">
+			<Text>Ihr sagt, Ihr würdet im Interesse Eures Volkes handeln, aber ich glaube, Ihr seid nur neidisch auf meine Beziehungen.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="de_DE">
+			<Text>Sie verbringen ihre Zeit lieber mit Anführern desselben Geschlechts</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="de_DE">
+			<Text>Ihnen gefällt es nicht, dass Ihr eine Ablenkung darstellt</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="de_DE">
+			<Text>Ihr seid attraktiv und bezaubernd</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="de_DE">
+			<Text>Ihr seid von keinem Interesse für sie</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="de_DE">
+			<Text>(Ihr seid vom anderen Geschlecht.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="de_DE">
+			<Text>(Ihr seid vom selben Geschlecht.)</Text>
+		</Replace>
+
+		<!--it_IT-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="it_IT">
+			<Text>Irritabile</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="it_IT">
+			<Text>Galante</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="it_IT">
+			<Text>Non ha tempo da perdere amoreggiando con i membri dell'alto sesso.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="it_IT">
+			<Text>Amichevole verso i membri dell'altro sesso.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="it_IT">
+			<Text>Un grande monarca non può lasciarsi distrarre dalle macchinazioni dell'altro sesso, non sei d'accordo?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="it_IT">
+			<Text>Non ho pazienza per le civetterie e le facezie argute. Preferisco una compagnia schietta e sincera... come la tua.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="it_IT">
+			<Text>Suppongo che un giorno dovrò affrontare la questione della successione, ma spero che quel giorno sia molto lontano. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="it_IT">
+			<Text>Non hai nulla di meglio da fare che tampinarmi? È una distrazione improduttiva.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Io ti ammiro. Naturalmente hai molti fan, ma tra quelli io sono certamente in prima fila.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Sono attratto dalla tua mesmerizzante presenza, e spero che tu provi lo stesso per me. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Racconto ai miei sudditi che voglio rinsaldare le relazioni diplomatiche con la tua civiltà, ma devo confessarti che sento semplicemente nel cuore il desiderio di rivederti.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Forse più tardi potremmo dedicarci a una diplomazia un po' più... personale? Solo io e te, senza tutti questi paramenti di stato. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Vieni, siedi accanto a me: scivoleremo lungo in Nilo nel comfort della mia chiatta reale, dove ti mostrerò le parti migliori... dell'Egitto.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Penso di volerti bene quasi quanto ne voglio a me stesso. La cosa dovrebbe impressionarti.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Mi ispiri pensieri indegni, tanto che rischio di perdermi solo per ottenere il tuo favore. Certamente avrai pietà di me e mi offrirai la mano da baciare?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Tu fai battere il mio cuore come le onde sulla riva: con forza e senza tregua.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Bisogna bilanciare la guerra con il piacere. E io traggo molto piacere dalla tua compagnia.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>È strano come si possa essere affascinati da una persona, non solo dal suo aspetto, ma anche dalla sua mente. Come fai? Qual è il tuo segreto? </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Non tremare troppo di fronte alla visione della mia persona, così simile a un dio! Puoi toccarmi, se vuoi: vedrai che sono anch'io mortale. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Cosa devo fare per impressionarti? Parla e io eseguirò all'istante.  </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="it_IT">
+			<Text>Dici che stai negoziando nell'interesse del tuo popolo, ma questa mi sembra solo gelosia verso le mie relazioni.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="it_IT">
+			<Text>Preferiscono passare il tempo con i leader del loro stesso sesso</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="it_IT">
+			<Text>Ti considerano una fastidiosa distrazione</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="it_IT">
+			<Text>Sei attraente e affascinante</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="it_IT">
+			<Text>Non ti trovano interessante</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="it_IT">
+			<Text>(Sei di genere opposto.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="it_IT">
+			<Text>(Sei dello stesso genere.)</Text>
+		</Replace>
+
+		<!--ja_JP-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="ja_JP">
+			<Text>堅物</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="ja_JP">
+			<Text>色好み</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="ja_JP">
+			<Text>異性の指導者と慣れ合うつもりはない。</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="ja_JP">
+			<Text>異性の指導者に対して好意的。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ja_JP">
+			<Text>偉大な指導者は、異性の手管に心を奪われたりはせぬものでは？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ja_JP">
+			<Text>私は軽薄な追従や気取った言葉遊びを好まない。私が好きなのは誠実な者、すなわち貴君のような人物だ。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ja_JP">
+			<Text>私もいつかは世継ぎのことを考えねばならないのでしょうが、まだ遠い先の話であることを願っています。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="ja_JP">
+			<Text>よく回る口だが、他にやることはないのか？ 気が散って迷惑だし、非生産的だ。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>あなたには敬服している。多くの者がそうだろうが、私こそが最大にして最も重要な信奉者だ。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>私は貴公の存在に惹かれるものを感じている。貴公も同じように思っているとありがたいのだが。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>臣下の者たちには貴国とのよりよい関係を模索したいのだと言っているが、正直なところ私は貴公との再会を心待ちにしているだけなのだ。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>よろしければ後ほど、腹を割って話しませんか？ 国家の飾りを取り払い、二人きりで。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>おいでなさい。共に王家の遊覧船に乗り、悠々とナイルを下りましょう。さすればご覧になれますよ… エジプトの最良の姿を。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>そなたのことが気に入った。まるで自分の分身のようだ。そなたも嬉しかろう。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>貴公は私に不相応な思いを抱かせる。たとえつまらぬ願いでも、貴公のためなら破滅も厭わない。私を哀れに思うなら、その手に口づけさせてほしい。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>あなたという人は、私の心を震わせます。浜に寄せる波のように、力強く、いつまでも。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>争いと悦び。人はこの2つを均衡させなくてはならない。貴殿と親しく交われて、心から嬉しく思う。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>人の魅力とは不思議なものですね。外見だけでなく、心に惹かれることもあるなんて。何か秘訣のようなものがあるのですか？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>神とも見まごうギルガメシュの姿に、どうかおののかないでくれ！ よければ触って確かめるといい。ギルガメシュも人の子だとわかってもらえるはずだ。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>貴公を感心させるにはどうすればいい？ 言ってくれ、そうすればすぐに取りかかろう。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ja_JP">
+			<Text>「民の最善の利益のために交渉している」と言うが、はたしてそうかな？ 私の交友関係を妬んでいるだけに思えるが。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="ja_JP">
+			<Text>同性の指導者と付き合いたがっている</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="ja_JP">
+			<Text>あなたの注意散漫に機嫌を損ねている</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="ja_JP">
+			<Text>あなたに魅力を感じ、惹かれている</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ja_JP">
+			<Text>あなたに興味がない</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="ja_JP">
+			<Text>(性別が異なる)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ja_JP">
+			<Text>(性別が同じである)</Text>
+		</Replace>
+
+		<!--ko_KR-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="ko_KR">
+			<Text>괴짜</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="ko_KR">
+			<Text>추파</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="ko_KR">
+			<Text>이성에게 낭비할 시간이 없습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="ko_KR">
+			<Text>이성에게 우호적입니다.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ko_KR">
+			<Text>위대한 통치자는 이성의 술책에 흔들리면 안 된다는 제 생각에 동의하지 않으십니까?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ko_KR">
+			<Text>사소한 추파와 재담 따위는 참을 수가 없습니다. 그래서 당신처럼 솔직한 대화 상대를 선호하는 편이죠.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ko_KR">
+			<Text>언젠가는 후계에 대한 사안을 검토해야 하겠지만 그 날이 당분간은 임박하지 않았으면 합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="ko_KR">
+			<Text>나에게 재잘댈 시간이 있을 정도로 한가하신가요? 아주 산만하고 비생산적이군요.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>물론 저를 비롯한 수많은 이들이 당신을 존경하겠지만 저만큼 당신에게 열광하는 이는 없다고 생각합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>저는 당신의 매혹적인 존재감에 매료되었습니다. 당신도 저에 대해 같은 감정을 느끼셨으면 좋겠군요.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>신하들에게는 귀하의 문명과 더 나은 외교 관계를 맺고 싶다고 말합니다. 하지만 사실은 그대와 재회하고 싶은 마음이 더욱 크답니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>우리도 나중에는 좀 더 친밀한 외교 관계에 돌입할 수 있지 않을까요? 이러한 국가적 과시 요소는 모두 배제한 채 단둘이서만 말입니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>자, 나와 함께 왕실 선박에 앉아 나일강을 유람해 보시지 않겠습니까? 이집트의 가장 아름다운 면모를 보여드리겠습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>나 자신을 아끼는 만큼 당신을 아낀다고 생각합니다. 감명을 받으셔도 좋습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>당신은 저를 하찮은 생각에 빠지게 만듭니다. 당신의 사소한 호의를 얻기 위해서라면 지옥이라도 감당할 수 있죠. 나를 긍휼히 여긴다면 손에 키스해 주지 않겠습니까?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>당신은 마치 강하고 끝이 없는 해안의 파도처럼 제 가슴을 뛰게 만듭니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>전쟁은 즐거움으로 상쇄해야 합니다. 전 당신과 함께함으로써 이러한 즐거움을 얻습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>단순한 외모가 아닌 사람 자체에 매력을 느낄 수 있다는 사실이 얼마나 놀라운지 모릅니다. 도대체 어떻게 그럴 수가 있죠? 비결이 뭔가요?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>신과도 같은 제 위엄에 너무 겁먹지 마십시오. 나를 만져보아도 좋습니다. 나 역시 한낱 인간에 불과하다는 사실을 알게 될 테니까요.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>당신에게 좋은 인상을 주려면 제가 뭘 해야 할까요? 말만 하십시오.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ko_KR">
+			<Text>당신은 국민의 이익을 위해 협상 중이라고 말하지만 솔직히 제 관계를 질투하는 것으로 밖에는 보이지 않습니다.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="ko_KR">
+			<Text>성별이 같은 지도자와 시간을 보내고 싶어 함</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="ko_KR">
+			<Text>당신이 일으키는 방해 요소를 싫어함</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="ko_KR">
+			<Text>당신의 매력에 끌림</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ko_KR">
+			<Text>당신에게 관심 없음</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="ko_KR">
+			<Text>(성별이 다릅니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ko_KR">
+			<Text>(성별이 같습니다.)</Text>
+		</Replace>
+
+		<!--pl_PL-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="pl_PL">
+			<Text>Oziębłość</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="pl_PL">
+			<Text>Zalotność</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="pl_PL">
+			<Text>Nie ma czasu na flirty z przedstawicielami przeciwnej płci.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="pl_PL">
+			<Text>Okazuje przychylność przedstawicielom przeciwnej płci.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="pl_PL">
+			<Text>Wielki przywódca nie powinien pozwalać, by rozpraszały go machinacje przeciwnej płci, nie sądzisz?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="pl_PL">
+			<Text>Nie mam cierpliwości do błahych flirtów i błyskotliwych żarcików. Wolę szczere towarzystwo – takie jak twoje.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="pl_PL">
+			<Text>Oczywiście pewnego dnia będę musiała zająć się sprawami sukcesji, lecz mam nadzieję, że jest to kwestia odległej przyszłości. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="pl_PL">
+			<Text>Nie masz ciekawszych zajęć? Takie pogaduszki są wyjątkowo drażniące i jałowe.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Podziwiam cię. Oczywiście inni też to robią, ale ich podziw nie może się równać z moim.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Pociąga mnie twa fascynująca obecność i mam nadzieję, że uczucie to jest odwzajemnione. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Moi poddani są przekonani, że zależy mi na zacieśnieniu dyplomatycznych więzi łączących nasze cywilizacje, lecz to moje serce cierpi z tęsknoty za tobą.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Może później oddamy się osobistej dyplomacji? Ty i ja. Sami. Bez tych wszystkich atrybutów władzy. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Siądź u mego boku i popłyńmy w dół Nilu otoczeni wygodami mej królewskiej barki, a pokażę ci wszystko, co najpiękniejsze... w Egipcie.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Mam wrażenie, że kocham cię niemal tak bardzo, jak siebie samego. Powinno to zrobić na tobie wrażenie.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Sprawiasz, że prześladują mnie niegodne myśli i gotów jestem na wieczne potępienie choćby za najmniejszą oznakę twej łaski. Czy zlitujesz się nade mną i pozwolisz, bym ucałował twą dłoń?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Sprawiasz, że me serce bije jak fale o brzeg – mocno i niestrudzenie.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Należy zachować równowagę między wojną i przyjemnością. A ja czerpię mnóstwo przyjemności z przebywania w twoim towarzystwie.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>To niesamowite, jak zafascynowani potrafimy być drugim człowiekiem – i to nie tylko jego wyglądem, lecz również umysłem. Jak ty to robisz? W czym tkwi twój sekret? </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Nie drżyj aż tak bardzo na widok mej boskiej osoby! Dotknij mnie, a przekonasz się, że i ja jestem śmiertelnikiem. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Jak mógłbym zrobić na tobie wrażenie? Powiedz słowo, a spełnię każde twe życzenie.  </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="pl_PL">
+			<Text>Twierdzisz, że działasz w najlepszym interesie swego ludu, ale mam wrażenie, że kieruje tobą zazdrość o moje stosunki z innymi nacjami.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="pl_PL">
+			<Text>Lubi spędzać czas z przywódcami tej samej płci.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="pl_PL">
+			<Text>Nie lubią zamieszania, które powodujesz.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="pl_PL">
+			<Text>Są tobą bardzo zainteresowani.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="pl_PL">
+			<Text>Nie interesujesz ich.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="pl_PL">
+			<Text>(Jesteście przeciwnej płci).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="pl_PL">
+			<Text>(Jesteście tej samej płci).</Text>
+		</Replace>
+
+		<!--ru_RU-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="ru_RU">
+			<Text>Бука</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="ru_RU">
+			<Text>Мастер флирта</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="ru_RU">
+			<Text>Нет времени любезничать с противоположным полом.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="ru_RU">
+			<Text>Хорошо относится к противоположному полу.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ru_RU">
+			<Text>Великого правителя не могут сбить с пути интриги противоположного пола, не так ли?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ru_RU">
+			<Text>У меня не хватает терпения на комплименты и остроты. Я предпочитаю общество прямых и открытых людей. Таких, как вы.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="ru_RU">
+			<Text>Полагаю, когда-нибудь мы займемся вопросами престолонаследия, но, надеюсь, этот день придет нескоро. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="ru_RU">
+			<Text>Вам нечем больше заняться, кроме как досаждать мне болтовней? Вы отвлекаете меня от важных дел.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Я вами восхищаюсь. У нас многие вами восхищаются, но я – больше всех, и это очень важно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Ваша завораживающая личность притягивает меня. Надеюсь, это взаимно. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Подданным я говорю, что занимаюсь дипломатией, а душа моя просто стремится вас снова увидеть.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Быть может, мы со временем перейдем к личной дипломатии? Только мы с вами, без этого парадного блеска... </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Давайте спустимся по Нилу вместе с вами на моем личном корабле. Я вам покажу много интересных мест... в Египте.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Мы любим вас, как себя. Это вас должно обрадовать.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Вы заставляете меня предаваться недостойным мечтаниям, я готов обречь себя на погибель в обмен на вашу благосклонность. Сжалитесь ли вы надо мной? Позволите ли припасть к вашей руке?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Вы заставляете мое сердце биться подобно прибою – сильно и безостановочно.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Войну нужно сочетать с удовольствиями. Одно из таких удовольствий – общение с вами.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Удивительно, как сильно нас может порой очаровать другой человек. Не только внешностью, но и умом. Как это у вас получается? Откройте секрет. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Не стоит трепетать, узрев мой богоподобный лик. Прикоснитесь ко мне – и вы увидите, что я, в сущности, простой смертный. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Что мне сделать, чтобы вы обратили на меня внимание? Только скажите – все мигом будет исполнено!  </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ru_RU">
+			<Text>Вы говорите, что ведете переговоры в интересах своего народа, а мне кажется, что вы просто меня ревнуете.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="ru_RU">
+			<Text>Предпочитает общаться с правителями своего пола</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="ru_RU">
+			<Text>Им не нравится ваша притворная рассеянность</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="ru_RU">
+			<Text>Вы интересны и привлекательны</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ru_RU">
+			<Text>Вы им неинтересны</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="ru_RU">
+			<Text>(Вы – лицо противоположного пола)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="ru_RU">
+			<Text>(Вы – лицо того же пола)</Text>
+		</Replace>
+
+		<!--zh_Hans_CN-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="zh_Hans_CN">
+			<Text>不解风情</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="zh_Hans_CN">
+			<Text>风流倜傥</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>没有兴趣和异性打情骂俏。</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对异性十分友好。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="zh_Hans_CN">
+			<Text>伟大的领袖不会被异性的阴谋搞得心烦意乱，您说对吧？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="zh_Hans_CN">
+			<Text>我没有耐心说什么甜言蜜语。我需要的是直接的陪伴——您的陪伴。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="zh_Hans_CN">
+			<Text>我想自己有一天也需要考虑传位之事，但现在还为时尚早呢。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="zh_Hans_CN">
+			<Text>你就知道在这跟我絮絮叨叨，没别的事好做了吗？搞得人心烦意乱。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>我仰慕您。虽然您的仰慕者很多，但我才是您最重要的头号拥趸。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>我被您从内散发的绝对魅力所深深吸引，希望您对我也有同感。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>我告诉臣民自己在努力寻求和您的文明建立更好的外交关系，但其实坦白说，我的内心就是渴望着再次见到您。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>也许以后我们可以建立私交？抛开天下大事，就我和您。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>来吧，舒服地坐在我身边，乘皇家游轮顺尼罗河而下。我会让您看看埃及美妙的风土人情…</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>我觉得我宠爱您的程度就如同我爱自己一样。您应该为此而感动。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>您让我心神不宁。为了得到您的垂青，我甚至甘愿毁灭。您是否会可怜我的苦情，亲吻我的手背？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>您让我心跳加速，就像胸口里有只小鹿在四处乱撞。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>人必须用欢乐来冲淡战争的苦痛。您的陪伴便是我最大的欢乐来源。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>被潇洒的外貌和高洁的心灵吸引真是一种美妙的感受。您是怎样做到的？有什么秘诀吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>我身高九尺，相貌堂堂，貌似神明，但见到我也别紧张！抚摸我的身躯吧，您会发现我也是个活生生的血肉之躯。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>我要怎么做才能感动您？只要您开口，我马上就办。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="zh_Hans_CN">
+			<Text>你说自己是在商讨人民的最佳利益，但我觉得你只是嫉妒我的人脉关系。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="zh_Hans_CN">
+			<Text>他们喜欢和同性别领袖来往交流</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="zh_Hans_CN">
+			<Text>他们不喜欢被您搞得心烦意乱</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hans_CN">
+			<Text>您魅力十足</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="zh_Hans_CN">
+			<Text>他们对您不感兴趣</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="zh_Hans_CN">
+			<Text>（您是异性领袖。）</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="zh_Hans_CN">
+			<Text>（您是同性领袖。）</Text>
+		</Replace>
+
+		<!--es_ES-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="es_ES">
+			<Text>Cascarrabias</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="es_ES">
+			<Text>Insinuante</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="es_ES">
+			<Text>No tiene tiempo para coquetear con miembros del sexo opuesto.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="es_ES">
+			<Text>Amigable con miembros del sexo opuesto.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="es_ES">
+			<Text>Un buen gobernante no puede distraerse con las maquinaciones del sexo contrario. ¿No os parece?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="es_ES">
+			<Text>No me gustan los flirteos baladíes ni las palabras ingeniosas. Prefiero disfrutar directamente de una compañía como la vuestra.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="es_ES">
+			<Text>Algún día tendré que pensar en el asunto de la sucesión, pero espero que ese día esté muy lejano. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="es_ES">
+			<Text>¿No tenéis nada mejor que hacer que hablar conmigo? Es contraproducente y me distrae.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Os admiro. Mucha gente os admira pero nadie lo hace más que yo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Vuestra mera presencia me fascina, y espero que sintáis lo mismo por mí. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>De cara a mis súbditos digo que quiero mejorar las relaciones diplomáticas con vuestra civilización, pero os confieso que en realidad me moría de ganas de veros.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Quizá más tarde podamos entablar relaciones diplomáticas personales sin nadie que nos moleste. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Venid a navegar conmigo por el Nilo en la intimidad de mi barcaza real y os enseñare lo mejor de... Egipto.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Creo que os quiero casi tanto como me quiero a mí. Y eso es mucho decir.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Hacéis que tenga pensamientos indignos y lo daría todo por ganarme vuestro favor. ¿Os apiadaréis de mí y me permitiréis que os bese la mano?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Hacéis que mi corazón lata como las olas al llegar a la costa: con fuerza y sin interrupción.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Hay que compaginar la guerra con el placer. Y yo disfruto del placer de vuestra compañía.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>¿No es curioso cómo nos puede llegar a fascinar una persona? No solo su aspecto, también su mente. ¿Cómo lo hacéis? ¿Cuál es vuestro secreto? </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>¡No tembléis ante mi divina presencia! Podéis tocarme, veréis que soy un simple mortal. </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>¿Qué tengo que hacer para impresionaros? Decídmelo y lo haré de inmediato.  </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="es_ES">
+			<Text>Decís que estáis negociando por el interés de vuestro pueblo, pero en realidad creo que sentís celos de mis relaciones.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="es_ES">
+			<Text>Prefieren pasar tiempo con líderes de su mismo sexo.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="es_ES">
+			<Text>No le gusta la distracción que generas.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="es_ES">
+			<Text>Eres una persona atractiva y cautivadora.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="es_ES">
+			<Text>No le interesas.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="es_ES">
+			<Text>(Sois del sexo opuesto).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="es_ES">
+			<Text>(Sois del mismo sexo).</Text>
+		</Replace>
+
+		<!--zh_Hant_HK-->
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_NAME" Language="zh_Hant_HK">
+			<Text>不解風情</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_NAME" Language="zh_Hant_HK">
+			<Text>風流倜儻</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_CURMUDGEON_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>沒時間和異性談論風花雪月。</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAILOR_FLIRTATIOUS_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>對異性非常友善。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="zh_Hant_HK">
+			<Text>偉大的統治者是不會為了兒女私情放棄大業的，你同意嗎？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="zh_Hant_HK">
+			<Text>我沒有耐心進行那枝微末節的調情與無謂的口舌。我更喜歡直接的陪伴，您的陪伴。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_CURMUDGEON_POSITIVE" Language="zh_Hant_HK">
+			<Text>總有一天我得操煩繼任的問題，但我希望那天不要過早到來。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="zh_Hant_HK">
+			<Text>你除了在這裡跟我閒聊以外沒其他事情好做了嗎？這不但令人分心，還十分沒有效率。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>我很仰慕你。當然，不少人都仰慕你，但我是你最重要且最忠實的仰慕者。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>你令人心醉神迷的存在深深吸引了我，而我希望你也對我有同樣的感覺。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>我常和我的子民說道，我想和你的文明建立更為良好的外交關係。但我得承認，其實我只是迫不及待地想再次見到你。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>也許之後我們能私下交往？拋開天下大事，只有你我二人共處。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>來吧，坐在我身邊，與我同乘皇家御舟愜意遊覽尼羅河，我將會向你展示埃及最為迷人之處。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>我覺得我愛您的程度如同愛己身一般。您該為此而感動。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>您是那麼地高不可攀，我得冒著被墮入地獄的風險懇求您的寵幸。我想您肯定願意可憐我，讓我親吻您的手吧？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>你讓我的內心有如波濤般強烈不息地跳動。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>君王必須在戰爭與享樂間找尋平衡。而能有你相伴的確是樂趣無窮。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>能同時為一個人的外貌與心智而神魂顛倒是件挺奇妙的事。你是怎麼做到的？你的祕訣是什麼？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>就算是在我這樣宛若天神般的人面前，你也無須顫抖的！你可以碰觸我，屆時你將會發現我也同樣是個凡人。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>我要怎麼做才能打動您呢？只要您開口，我就會毫不猶豫地去做。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="zh_Hant_HK">
+			<Text>你說你是為了人民的利益前來交涉，但我覺得你只是妒忌我所擁有的關係而已。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_POSITIVE" Language="zh_Hant_HK">
+			<Text>他們偏好和相同性別的領袖相處</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_CURMUDGEON_NEGATIVE" Language="zh_Hant_HK">
+			<Text>他們不喜歡您所造成的紛擾</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_POSITIVE" Language="zh_Hant_HK">
+			<Text>您魅力十足</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAILOR_FLIRTATIOUS_NEGATIVE" Language="zh_Hant_HK">
+			<Text>他們對您沒有興趣</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_CURMUDGEON_NEGATIVE" Language="zh_Hant_HK">
+			<Text>（您是異性領袖。）</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAILOR_FLIRTATIOUS_NEGATIVE" Language="zh_Hant_HK">
+			<Text>（您是同性領袖。）</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
